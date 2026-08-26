@@ -32,11 +32,12 @@ consistente e construindo projetos práticos.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![](https://komarev.com/ghpvc/?username=RenanzinBKL&color=blue&style=flat)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RenanzinBKL&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
+- 🔥 Estudando ativamente desde Agosto/2026
+- 📁 Repositórios públicos: exercicios-css
+- 🌱 Atualmente aprendendo: JavaScript e DOM
+- 🎯 Meta: primeiro estágio em desenvolvimento web
 
 ---
 

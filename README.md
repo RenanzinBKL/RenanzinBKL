@@ -31,9 +31,14 @@ consistente e construindo projetos práticos.
 ---
 
 ## 📊 GitHub Stats
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanzinBKL&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanzinBKL&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanzinBKL&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanzinBKL&layout=compact&theme=dark&hide_border=true&langs_count=6)
+
+</div>
 
 ---
 

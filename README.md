@@ -2,21 +2,34 @@
 
 Estudante de Sistemas de Informação na UNI-RN, atualmente no 2º período.
 
-Estou estudando desenvolvimento web com o objetivo de me tornar desenvolvedor Full Stack. Atualmente estou consolidando os fundamentos do Front-end e JavaScript através de estudos e projetos práticos.
+Estou me desenvolvendo em programação com foco em Desenvolvimento Web e objetivo de atuar como Full Stack. Atualmente estou consolidando JavaScript por meio de exercícios e projetos práticos.
 
 ---
 
 ## 🚀 O que estou estudando
 
-- ✅ HTML5
-- ✅ CSS3 (Flexbox, Grid e Responsividade)
-- 🔄 JavaScript
-  - Variáveis e tipos de dados
-  - Condicionais
-  - Funções
-  - Parâmetros e argumentos
-  - Arrays básicos
-- ⏳ Próximos passos: DOM, Git, React, Node.js e PostgreSQL
+### ✅ Fundamentos
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Responsividade
+
+### 🔄 JavaScript
+- ✅ Variáveis e tipos de dados
+- ✅ Condicionais
+- ✅ Funções e parâmetros
+- ✅ `return`
+- ✅ Loops (`for`)
+- ✅ Arrays básicos
+- ⏳ DOM e eventos
+
+### 🔜 Próximos passos
+- Git e GitHub
+- JavaScript assíncrono e APIs
+- React
+- Node.js
+- PostgreSQL
 
 ---
 
@@ -30,27 +43,27 @@ Estou estudando desenvolvimento web com o objetivo de me tornar desenvolvedor Fu
 
 ---
 
-## 📚 Estudos e prática
+## 📚 Repositórios de estudos
 
-### JavaScript
+### 🟨 JavaScript
 [📁 estudos-javascript](https://github.com/RenanzinBKL/estudos-javascript)
 
-Repositório onde registro minha evolução nos fundamentos de JavaScript através de exercícios e pequenos desafios.
+Exercícios sobre fundamentos de JavaScript, incluindo funções, condicionais, loops e arrays.
 
-### CSS
+### 🎨 CSS
 [📁 exercicios-css](https://github.com/RenanzinBKL/exercicios-css)
 
-Exercícios de Flexbox, layout e responsividade desenvolvidos durante meus estudos de CSS.
+Exercícios envolvendo Flexbox e responsividade.
 
 ---
 
 ## 🎯 Objetivos
 
-- Aprofundar meus conhecimentos em JavaScript
-- Desenvolver aplicações utilizando React
+- Consolidar JavaScript
+- Desenvolver aplicações com React
 - Aprender desenvolvimento Back-end com Node.js
-- Estudar bancos de dados relacionais com PostgreSQL
-- Construir projetos Full Stack completos
+- Trabalhar com PostgreSQL e APIs
+- Construir aplicações Full Stack completas
 - Conseguir minha primeira oportunidade como estagiário ou desenvolvedor júnior
 
 ---
@@ -59,10 +72,10 @@ Exercícios de Flexbox, layout e responsividade desenvolvidos durante meus estud
 
 ![](https://komarev.com/ghpvc/?username=RenanzinBKL&color=blue&style=flat)
 
-- 📚 Cursando Sistemas de Informação — UNI-RN
-- 💻 Estudando desenvolvimento web
-- 🌱 Atualmente aprofundando JavaScript
-- 🎯 Buscando evoluir para desenvolvimento Full Stack
+- 🎓 Sistemas de Informação — UNI-RN
+- 💻 Desenvolvimento Web
+- 🌱 Aprofundando JavaScript
+- 🎯 Foco futuro em Full Stack
 
 ---
 

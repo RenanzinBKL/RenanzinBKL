@@ -2,31 +2,48 @@
 
 Estudante de Sistemas de Informação na UNI-RN, atualmente no 2º período.
 
-Estou me desenvolvendo em programação com foco em Desenvolvimento Web e objetivo de atuar como Full Stack. Atualmente estou consolidando JavaScript por meio de exercícios e projetos práticos.
+Estou construindo minha base em Desenvolvimento Web com o objetivo de atuar como desenvolvedor Full Stack. Atualmente estou aprofundando JavaScript por meio de estudos, exercícios e projetos práticos.
 
 ---
 
-## 🚀 O que estou estudando
+## 🚀 Minha evolução
 
-### ✅ Fundamentos
+### ✅ Desenvolvimento Web
 - HTML5
 - CSS3
 - Flexbox
 - CSS Grid
 - Responsividade
 
-### 🔄 JavaScript
-- ✅ Variáveis e tipos de dados
-- ✅ Condicionais
-- ✅ Funções e parâmetros
-- ✅ `return`
-- ✅ Loops (`for`)
-- ✅ Arrays básicos
-- ⏳ DOM e eventos
+### ✅ JavaScript — Fundamentos
+- Variáveis e tipos de dados
+- Condicionais
+- Funções e parâmetros
+- `return`
+- Loops (`for`)
+- Arrays básicos
+
+### ✅ Git e GitHub
+- Controle de versão com Git
+- Stage e commits
+- Branches
+- Merge
+- Resolução de conflitos
+- Push e Pull
+- Repositórios remotos
+- Pull Requests
+- Forks
+- `.gitignore`
+
+### 🔄 Estudando atualmente
+- DOM
+- Eventos
+- Manipulação de elementos com JavaScript
 
 ### 🔜 Próximos passos
-- Git e GitHub
-- JavaScript assíncrono e APIs
+- Arrays avançados e objetos
+- JavaScript assíncrono
+- APIs
 - React
 - Node.js
 - PostgreSQL
@@ -38,8 +55,9 @@ Estou me desenvolvendo em programação com foco em Desenvolvimento Web e objeti
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -48,23 +66,24 @@ Estou me desenvolvendo em programação com foco em Desenvolvimento Web e objeti
 ### 🟨 JavaScript
 [📁 estudos-javascript](https://github.com/RenanzinBKL/estudos-javascript)
 
-Exercícios sobre fundamentos de JavaScript, incluindo funções, condicionais, loops e arrays.
+Exercícios e práticas desenvolvidos durante meus estudos dos fundamentos de JavaScript.
 
 ### 🎨 CSS
 [📁 exercicios-css](https://github.com/RenanzinBKL/exercicios-css)
 
-Exercícios envolvendo Flexbox e responsividade.
+Exercícios de CSS com foco em Flexbox e responsividade.
 
 ---
 
 ## 🎯 Objetivos
 
-- Consolidar JavaScript
+- Aprofundar JavaScript e desenvolvimento Front-end
 - Desenvolver aplicações com React
 - Aprender desenvolvimento Back-end com Node.js
-- Trabalhar com PostgreSQL e APIs
+- Trabalhar com APIs e PostgreSQL
 - Construir aplicações Full Stack completas
-- Conseguir minha primeira oportunidade como estagiário ou desenvolvedor júnior
+- Criar um portfólio com projetos próprios
+- Conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior
 
 ---
 
@@ -74,8 +93,9 @@ Exercícios envolvendo Flexbox e responsividade.
 
 - 🎓 Sistemas de Informação — UNI-RN
 - 💻 Desenvolvimento Web
-- 🌱 Aprofundando JavaScript
-- 🎯 Foco futuro em Full Stack
+- 🌱 Aprofundando JavaScript e DOM
+- 🔧 Utilizando Git e GitHub no versionamento dos meus estudos e projetos
+- 🎯 Objetivo: Desenvolvimento Full Stack
 
 ---
 
